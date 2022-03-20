@@ -6,7 +6,7 @@
 New qb-bossmenu / qb-gangmenu converted into one resource using qb-menu and qb-input, with SQL support for society funds!
 
 ## Dependencies
-- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-core dev branch](https://github.com/qbcore-framework/qb-core/tree/dev) DEV Branch is needed to work propperly
 - [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources) (For the Logs)
 - [qb-input](https://github.com/qbcore-framework/qb-input)
 - [qb-menu](https://github.com/qbcore-framework/qb-menu)
