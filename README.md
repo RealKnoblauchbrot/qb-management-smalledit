@@ -1,3 +1,6 @@
+# THIS SCRIPT IS A SMALL EDIT TO ADD STASHES FOR GANG MEMBERS.
+# I DONT TAKE ANY SUPPORT AND WILL NOT ACKNOWLEDGE ANY ISSUES WITH THIS. IF YOU HAVE ANY PROBLEMS USE THE native [qb-management](https://github.com/qbcore-framework/qb-management)
+
 # qb-management
 
 New qb-bossmenu / qb-gangmenu converted into one resource using qb-menu and qb-input, with SQL support for society funds!
